@@ -11,7 +11,7 @@ public class DataFakerGenerator {
 
     Random random = new Random();
 
-    String filePath = "C:\\Users\\mateu\\OneDrive\\Documents\\qaChallengeMateusAniceto\\qaChallengeMateusAniceto\\src\\main\\java\\mateusaniceto\\factory\\data\\images\\gatinho.jpg";
+    String filePath = "src/main/java/mateusaniceto/factory/data/images/gatinho.jpg";
 
     private static final String title[] = {"Mr", "Mrs"};
 
